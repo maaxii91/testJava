@@ -27,7 +27,7 @@ class Marco extends JFrame {
 
 	public Marco() {
 
-		setTitle("Calculadora by MCSI");
+		setTitle("Calculadora by MCSI by fia");
 
 		setBounds(500, 300, 450, 300);
 
